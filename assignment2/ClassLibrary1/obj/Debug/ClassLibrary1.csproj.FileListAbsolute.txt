@@ -1,0 +1,6 @@
+E:\pahse 3 assignments\SpecFlowAssignment 1\day 2\assignment2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\pahse 3 assignments\SpecFlowAssignment 1\day 2\assignment2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\pahse 3 assignments\SpecFlowAssignment 1\day 2\assignment2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\pahse 3 assignments\SpecFlowAssignment 1\day 2\assignment2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\pahse 3 assignments\SpecFlowAssignment 1\day 2\assignment2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\pahse 3 assignments\SpecFlowAssignment 1\day 2\assignment2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
